@@ -10,7 +10,7 @@ The controller manages elevator movement between floors, processes floor request
 
 ## Multi-Story Building Layout
 
-![Building Layout](Images/building_layout.png)
+![Building Layout](docs/building_layout.png)
 
 The building consists of:
 
